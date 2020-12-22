@@ -1,7 +1,7 @@
 # MusicUI
 lerning from Udemy for practice 
 
-## Show the Pricess Bar
+## Show the Process Bar
 ><img src="https://github.com/smilepeggy/MusicUI/blob/master/ProcessBar.png" width=500/>  
 
 ## Loaded Artist list

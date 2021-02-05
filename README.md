@@ -1,5 +1,15 @@
 # MusicUI
-lerning from Udemy for practice 
+tool: DB Browser for SQLite
+Database: music.db
+
+Goal: 
+Show the process bar
+Loaded Artist list
+Show album
+Update Artist
+
+Next step:
+Implement it on MySQL server and combine with "Music player "functions (next, repeat, delete, add songs...etc)
 
 ## Show the Process Bar
 ><img src="https://github.com/smilepeggy/MusicUI/blob/master/ProcessBar.png" width=500/>  

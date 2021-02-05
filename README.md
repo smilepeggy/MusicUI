@@ -1,5 +1,5 @@
 # MusicUI
-tool: DB Browser for SQLite
+Tool: DB Browser for SQLite
 Database: music.db
 
 Goal: 
